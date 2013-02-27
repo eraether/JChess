@@ -1,3 +1,4 @@
+package com.eraether.jchess;
 import java.awt.Color;
 import java.awt.FontMetrics;
 import java.awt.Graphics;

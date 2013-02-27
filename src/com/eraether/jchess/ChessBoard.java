@@ -1,3 +1,4 @@
+package com.eraether.jchess;
 import java.util.ArrayList;
 
 class ChessBoard {

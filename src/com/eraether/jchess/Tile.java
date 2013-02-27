@@ -1,6 +1,7 @@
+package com.eraether.jchess;
 import java.awt.Point;
 
-class Tile {
+public class Tile {
 	private int xPosition;
 	private int yPosition;
 

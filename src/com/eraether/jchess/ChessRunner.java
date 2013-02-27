@@ -1,3 +1,4 @@
+package com.eraether.jchess;
 /*@Author Eugene Raether
  * 
  * Approx.  1450 LOC

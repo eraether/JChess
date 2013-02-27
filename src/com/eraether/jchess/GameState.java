@@ -1,4 +1,5 @@
-class GameState {
+package com.eraether.jchess;
+public class GameState {
 	private ChessBoard chessBoard;
 	private int currentTurn;
 	private int elapsedTurns;

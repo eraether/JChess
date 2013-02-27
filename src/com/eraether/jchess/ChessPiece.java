@@ -1,3 +1,4 @@
+package com.eraether.jchess;
 
 class ChessPiece {
 	private int player;
@@ -17,7 +18,6 @@ class ChessPiece {
 		setType(type);
 		setHasMoved(hasMoved);
 	}
-
 	private void setHasMoved(boolean hasMoved) {
 		this.hasMoved = hasMoved;
 	}
@@ -46,6 +46,7 @@ class ChessPiece {
 		return hasMoved;
 	}
 
+	@Override
 	public String toString() {
 		return "Player " + getPlayer() + "'s " + getType();
 	}
